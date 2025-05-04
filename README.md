@@ -24,7 +24,7 @@ With a background in sociology, design, and technology, I bring an interdiscipli
 
 I’m always excited to collaborate on tech-for-good, digital transformation, or impact-driven data projects. Feel free to explore my repositories, or connect with me on:
 
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/vidyashreejaokar/))    
+- 🌐 [LinkedIn] (https://www.linkedin.com/in/vidyashreejaokar/) 
 - 🌍 [Portfolio Website](https://your-portfolio-link.com)](https://www.behance.net/digivid)
 
 ---
